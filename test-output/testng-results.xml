@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-11-29T18:11:13 PST" name="Suite" finished-at="2023-11-29T18:11:13 PST" duration-ms="120">
+    <groups>
+      <group name="main">
+        <method signature="GroupingTest.f()[pri:0, instance:com.Testngfeatures.GroupingTest@3cebbb30]" name="f" class="com.Testngfeatures.GroupingTest"/>
+      </group> <!-- main -->
+      <group name="after">
+        <method signature="GroupingTest.afterClass()[pri:0, instance:com.Testngfeatures.GroupingTest@3cebbb30]" name="afterClass" class="com.Testngfeatures.GroupingTest"/>
+        <method signature="GroupingTest.afterMethod()[pri:0, instance:com.Testngfeatures.GroupingTest@3cebbb30]" name="afterMethod" class="com.Testngfeatures.GroupingTest"/>
+        <method signature="GroupingTest.afterSuite()[pri:0, instance:com.Testngfeatures.GroupingTest@3cebbb30]" name="afterSuite" class="com.Testngfeatures.GroupingTest"/>
+        <method signature="GroupingTest.afterTest()[pri:0, instance:com.Testngfeatures.GroupingTest@3cebbb30]" name="afterTest" class="com.Testngfeatures.GroupingTest"/>
+      </group> <!-- after -->
+    </groups>
+    <test started-at="2023-11-29T18:11:13 PST" name="Test" finished-at="2023-11-29T18:11:13 PST" duration-ms="120">
+      <class name="com.Testngfeatures.GroupingTest">
+        <test-method signature="afterClass()[pri:0, instance:com.Testngfeatures.GroupingTest@3cebbb30]" started-at="2023-11-29T18:11:13 PST" name="afterClass" finished-at="2023-11-29T18:11:13 PST" duration-ms="13" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method signature="afterMethod()[pri:0, instance:com.Testngfeatures.GroupingTest@3cebbb30]" started-at="2023-11-29T18:11:13 PST" name="afterMethod" finished-at="2023-11-29T18:11:13 PST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method signature="afterSuite()[pri:0, instance:com.Testngfeatures.GroupingTest@3cebbb30]" started-at="2023-11-29T18:11:13 PST" name="afterSuite" finished-at="2023-11-29T18:11:13 PST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+        <test-method signature="afterTest()[pri:0, instance:com.Testngfeatures.GroupingTest@3cebbb30]" started-at="2023-11-29T18:11:13 PST" name="afterTest" finished-at="2023-11-29T18:11:13 PST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+        <test-method signature="f()[pri:0, instance:com.Testngfeatures.GroupingTest@3cebbb30]" started-at="2023-11-29T18:11:13 PST" name="f" finished-at="2023-11-29T18:11:13 PST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+      </class> <!-- com.Testngfeatures.GroupingTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
